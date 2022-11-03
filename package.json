@@ -1,0 +1,18 @@
+{
+  "name": "introtonode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "AWS_SES.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1167.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "nodemon": "^2.0.18"
+  }
+}
